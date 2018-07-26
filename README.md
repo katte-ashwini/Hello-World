@@ -2,4 +2,4 @@
 Learning
 
 Hello there
-I am try to learn how to use GitHub.
+I am trying to learn how to use GitHub.
